@@ -7,7 +7,9 @@ Challenge UI Flutter.
 This project is a small challenge of making a user interface flutter application. It is an e-commerce application for selling girl bag. Here are the images above that highlight the interface of the application.
 <p align="center">
     <img src="bag_shop\assets\images\shop2-removebg-preview.png" width="350"  alt="accessibility text">
-  <img src="readme_image\food_2-removebg-preview.png" width="350"  alt="accessibility text">
+    <img src="bag_shop\assets\images\shop3-removebg-preview.png" width="350"  alt="accessibility text">
+    <img src="bag_shop\assets\images\shop4-removebg-preview.png" width="350"  alt="accessibility text">
+    <img src="bag_shop\assets\images\shop5-removebg-preview.png" width="350"  alt="accessibility text">
 
 </p>
 <h2>Getting Started</h2>
